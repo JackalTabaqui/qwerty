@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 using namespace std;
-
+//19. Рассчитайте значение числового ряда n/((n+1)!)
 void main()
 {
 	int n, N;
